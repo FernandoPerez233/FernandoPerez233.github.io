@@ -86,3 +86,21 @@
       .grupodeparrafos{
          color: bisque;
       }
+
+      ul{
+         color: green;
+      }
+      ol:hover{
+         color: rgb(0, 255, 0);
+      }
+      
+      #identificador{
+         color: red;
+      }
+
+      .grupoListas{
+        font-family: Helvetica, sans-serif;
+         color: violet;
+         text-align: center;
+      }
+
